@@ -39,7 +39,23 @@ Analyze sales data to identify performance trends, profit gaps, and business imp
 - Top products drive majority of profit.
 - Bottom products indicate potential pricing or cost issues.
 
-  
+## Business Impact
+- Helps identify loss-making products and optimize pricing strategy  
+- Enables better decision-making using KPI tracking  
+- Supports cost reduction and profit improvement initiatives  
+
+  ## Skills Demonstrated
+- Data Cleaning (Power Query)
+- Data Analysis (Excel, DAX)
+- Data Visualization (Power BI)
+- Business Insight Generation
+- KPI Design & Tracking
+
+## How to Use
+1. Download the `.pbix` file  
+2. Open in Power BI Desktop  
+3. Explore dashboard using filters and slicers
+
 ## Conclusion
 This project demonstrates how data analysis can support business decisions by identifying performance gaps and improving profitability.
 
