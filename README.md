@@ -1,27 +1,36 @@
-# Sales Performance Dashboard
+# Sales Performance & Profitability Dashboard
 
-This project focuses on analyzing sales data to evaluate business performance and identify key trends using Excel and Power BI.
-
-## Business Objectives
-- Track overall sales and profit performance
-- Analyze sales trends over time
-- Identify top and underperforming products
-- Evaluate regional sales performance
-
-## Tools Used
-- Excel (data cleaning and initial analysis)
-- Power BI (data modeling, DAX measures, dashboards)
-
-## Key Metrics
-- Total Revenue
-- Total Profit
-- Profit Margin (%)
-- Sales Growth (MoM / YoY)
-- Top & Bottom Products by Performance
+## Problem Statement
+Analyze sales data to identify performance trends, profit gaps, and business improvement areas.
 
 ## Dataset
-Global Superstore sales dataset
+- 8000+ records
+- Includes sales, profit, category, region, and product-level data
 
-## Outcome
-The dashboard provides a business-ready view of sales performance to support data-driven decision-making.
+## Tools Used
+- Power BI
+- Excel
+- DAX
+
+## Key KPIs
+- Total Sales
+- Total Profit
+- Profit Margin
+
+## Analysis Performed
+- Monthly sales trend analysis
+- Category & region-wise performance
+- Top and bottom performing products
+- Profitability analysis
+
+## Key Insights
+- Identified loss-making products and regions
+- Detected margin inefficiencies in specific categories
+- Highlighted opportunities for pricing optimization
+
+## Dashboard Preview
+(Add screenshots here)
+
+## Conclusion
+This project demonstrates how data analysis can support business decisions by identifying performance gaps and improving profitability.
 
