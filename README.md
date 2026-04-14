@@ -1,5 +1,9 @@
 # Sales Performance & Profitability Dashboard
 
+## Executive Summary
+This project analyzes 8000+ sales records to evaluate business performance across products, regions, and time.  
+It identifies profit gaps, top-performing products, and areas of pricing inefficiency to support data-driven decision-making.
+
 ## Problem Statement
 Analyze sales data to identify performance trends, profit gaps, and business improvement areas.
 
@@ -59,3 +63,7 @@ Analyze sales data to identify performance trends, profit gaps, and business imp
 ## Conclusion
 This project demonstrates how data analysis can support business decisions by identifying performance gaps and improving profitability.
 
+## Key Takeaways
+- Sales growth is steady but profitability is inconsistent  
+- Margin fluctuations indicate pricing or cost inefficiencies  
+- Focus on optimizing low-performing products can improve overall profitability  
