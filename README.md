@@ -48,7 +48,7 @@ Analyze sales data to identify performance trends, profit gaps, and business imp
 - Enables better decision-making using KPI tracking  
 - Supports cost reduction and profit improvement initiatives  
 
-  ## Skills Demonstrated
+## Skills Demonstrated
 - Data Cleaning (Power Query)
 - Data Analysis (Excel, DAX)
 - Data Visualization (Power BI)
