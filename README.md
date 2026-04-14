@@ -29,8 +29,17 @@ Analyze sales data to identify performance trends, profit gaps, and business imp
 - Highlighted opportunities for pricing optimization
 
 ## Dashboard Preview
-(Add screenshots here)
+### Sales Trend & Performance
+![Dashboard](dashboard_main.png)
+- Sales show steady growth with seasonal peaks in Q3.
+- Profit margin fluctuation indicates pricing or cost inefficiencies.
 
+### Product Performance Analysis
+![Product Analysis](product_analysis.png)
+- Top products drive majority of profit.
+- Bottom products indicate potential pricing or cost issues.
+
+  
 ## Conclusion
 This project demonstrates how data analysis can support business decisions by identifying performance gaps and improving profitability.
 
