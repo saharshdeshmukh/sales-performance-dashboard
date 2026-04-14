@@ -40,7 +40,7 @@ Analyze sales data to identify performance trends, profit gaps, and business imp
 
 ### Product Performance Analysis
 ![Product Analysis](product_analysis.png)
-- Top products drive majority of profit.
+- A small set of products contributes disproportionately to total profit, indicating concentration risk.
 - Bottom products indicate potential pricing or cost issues.
 
 ## Business Impact
