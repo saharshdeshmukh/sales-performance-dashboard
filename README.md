@@ -12,9 +12,8 @@ Analyze sales data to identify performance trends, profit gaps, and business imp
 - Includes sales, profit, category, region, and product-level data
 
 ## Tools Used
-- Power BI
+- Power BI (Data Modeling, DAX)
 - Excel
-- DAX
 
 ## Key KPIs
 - Total Sales
